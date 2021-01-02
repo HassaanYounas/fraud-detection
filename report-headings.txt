@@ -1,0 +1,11 @@
+Abstract			(Summary)
+Introduction			(Fraud Detection (PaySim))
+Dataset Analysis		(Graphs)
+Dataset Reduction		(20,000 -ve, All +ve)
+Dataset Pre-Processing		(Conversion to int, scaling)
+KNN Training and Testing	(Intro, Results)
+SVC Training and Testing	(Intro, Results)
+DT  Training and Testing	(Intro, Results)
+NN  Training and Testing	(Intro, Results)
+Conclusion			(Results and Findings)
+
