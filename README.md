@@ -9,6 +9,6 @@ ___
 ___
 # Technologies
 The project is done in Jupyter-Lab using scikit-learn, pandas, matplotlib, keras and numpy.
-__
+___
 # Results
 The results are very good, with F1 score at 95%.
